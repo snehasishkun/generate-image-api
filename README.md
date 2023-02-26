@@ -1,2 +1,4 @@
-# js-image-generation-openai-api
-API to Generate Images using the OpenAI API.
+# NodeJS and Express API: Generate Images Using OpenAI API
+
+
+Note: You need an OpenAI API Key.
